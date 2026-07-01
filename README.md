@@ -17,10 +17,10 @@
 
 ## 🚀 About Me
 
-I'm a B.Tech 3rd year student passionate about building clean, functional web and mobile experiences. Currently deep into **React Native**, exploring its ecosystem while sharpening my frontend fundamentals along the way.
+I'm a B.Tech 4th year student passionate about building clean, functional web and mobile experiences. Currently deep into **React**, exploring its ecosystem while sharpening my frontend fundamentals along the way.
 
-- 📱 Currently working on **React Native**
-- 🌱 Learning the **React Native ecosystem** in depth
+- 📱 Currently working on **React**
+- 🌱 Learning the **React** in depth
 - 🤝 Open to collaborating on frontend / mobile app projects
 - 💡 Passionate about coding, UI design, and mobile app development
 - ⚡ Fun fact: I'm actually pretty funny 😄
@@ -30,7 +30,7 @@ I'm a B.Tech 3rd year student passionate about building clean, functional web an
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/abhijit-thander-b87386242/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://avi-portfoliodev-git-main-abhijit-thanders-projects.vercel.app/" target="_blank">
