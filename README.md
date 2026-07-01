@@ -4,7 +4,7 @@
 
 <h3>A passionate Frontend & React Native Developer from India</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+3rd+Year+Student;Building+with+React+%26+React+Native;Always+learning%2C+always+building&font=Fira%20Code&center=true&width=480&height=40&color=6366F1&size=20&vCenter=true" />
+<img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+4th+Year+Student;Building+with+React+%26+React+Native;Always+learning%2C+always+building&font=Fira%20Code&center=true&width=480&height=40&color=6366F1&size=20&vCenter=true" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Abhijit-Thander&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
