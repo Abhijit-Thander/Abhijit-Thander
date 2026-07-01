@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=180&section=header&text=Hi%20👋,%20I'm%20Abhijit%20Thander&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<h3>A passionate Frontend & React Native Developer from India 🇮🇳</h3>
+<h3>A passionate Frontend & React Native Developer from India</h3>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+3rd+Year+Student;Building+with+React+%26+React+Native;Always+learning%2C+always+building&font=Fira%20Code&center=true&width=480&height=40&color=6366F1&size=20&vCenter=true" />
 
