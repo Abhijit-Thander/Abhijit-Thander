@@ -36,9 +36,9 @@ I'm a B.Tech 4th year student passionate about building clean, functional web an
   <a href="https://techyabhiportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhijitthander38@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 <br/>
