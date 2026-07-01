@@ -78,12 +78,10 @@ I'm a B.Tech 4th year student passionate about building clean, functional web an
 <br/>
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhijit-Thander&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijit-Thander&theme=tokyonight&hide_border=true" width="49%" />
 </p>
-
 <br/>
 
 ## 📌 Featured Projects
