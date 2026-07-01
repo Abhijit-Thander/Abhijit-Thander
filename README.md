@@ -1,23 +1,27 @@
-<h1 align="center">Hi 👋, I'm Abhijit Thander</h1>
-<h3 align="center">A passionate Frontend & React Native Developer from India 🇮🇳</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=220&section=header&text=Abhijit%20Thander&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20%26%20React%20Native%20Developer%20from%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=52&descSize=16" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhijit-Thander&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Abhijit-Thander?label=Followers&style=social" alt="followers" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+clean%2C+fast+web+experiences;Currently+exploring+React+Native;Always+learning%2C+always+shipping+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=40&color=6366F1&size=20&vCenter=true" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhijit-Thander&label=Profile%20Views&color=6366f1&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Abhijit-Thander?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-22d3ee?style=flat&logo=handshake&logoColor=white" />
+</p>
+
+<br/>
 
 ### 🚀 About Me
 
 - 🎓 B.Tech 3rd Year Student
-- 📱 Currently working on **React Native**
-- 🌱 Currently learning **React Native & its ecosystem**
-- 🤝 Open to collaborating on frontend / mobile app projects
-- 💡 Passionate about coding, UI design, and mobile app development
+- 📱 Currently building with **React Native**
+- 🌱 Deepening my skills in **React Native & its ecosystem**
+- 🤝 Open to collaborating on frontend & mobile app projects
+- 💡 Passionate about clean UI, smooth UX, and mobile app development
 - ⚡ Fun fact: I'm actually pretty funny 😄
 
----
+<br/>
 
 ### 🌐 Connect with Me
 
@@ -33,7 +37,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
 
 ### 🛠️ Languages & Tools
 
@@ -53,7 +57,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
----
+<br/>
 
 ### 📊 GitHub Stats
 
@@ -66,12 +70,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijit-Thander&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
----
+<br/>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijit-Thander&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+<br/>
 
 ### 📌 Featured Projects
 
-- 💼 **[Portfolio Website](https://avi-portfoliodev-git-main-abhijit-thanders-projects.vercel.app/)** — My personal developer portfolio built with React.
+- 💼 **[Portfolio Website](https://avi-portfoliodev-git-main-abhijit-thanders-projects.vercel.app/)** — My personal developer portfolio built with React, Tailwind & Lenis smooth scroll.
 - 🛒 **E-Commerce Website** — A responsive product catalog and shopping front-end.
 - 🦷 **Dental Clinic Website** — A responsive site for a dental clinic built with React & Vite.
 
+<br/>
+
 <p align="center"><i>⭐ From <a href="https://github.com/Abhijit-Thander">Abhijit-Thander</a></i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=100&section=footer" width="100%"/>
