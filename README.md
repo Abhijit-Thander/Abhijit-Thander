@@ -33,7 +33,7 @@ I'm a B.Tech 4th year student passionate about building clean, functional web an
   <a href="https://www.linkedin.com/in/abhijit-thander-b87386242/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://avi-portfoliodev-git-main-abhijit-thanders-projects.vercel.app/" target="_blank">
+  <a href="https://techyabhiportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:YOUR-EMAIL@example.com">
@@ -90,7 +90,7 @@ I'm a B.Tech 4th year student passionate about building clean, functional web an
 
 | Project | Description | Tech |
 |---|---|---|
-| 💼 **[Portfolio Website](https://avi-portfoliodev-git-main-abhijit-thanders-projects.vercel.app/)** | My personal developer portfolio | React, Tailwind, Lenis |
+| 💼 **[Portfolio Website](https://techyabhiportfolio.netlify.app/)** | My personal developer portfolio | React, Tailwind, Lenis |
 | 🛒 **E-Commerce Website** | A responsive product catalog & shopping front-end | HTML, CSS, JavaScript |
 | 🦷 **Dental Clinic Website** | A responsive clinic informational site | React, Vite |
 
